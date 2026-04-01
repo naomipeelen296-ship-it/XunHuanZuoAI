@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string error_network
+string input_hint
+string loading
+string nav_chat
+string nav_interests
+string nav_profile
+string new_conversation
+string send
+style Theme.XunHuanZuoAI

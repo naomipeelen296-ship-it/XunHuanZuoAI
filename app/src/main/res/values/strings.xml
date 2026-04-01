@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">寻欢做AI</string>
+    <string name="nav_chat">聊天</string>
+    <string name="nav_interests">兴趣</string>
+    <string name="nav_profile">我的</string>
+    <string name="send">发送</string>
+    <string name="input_hint">输入消息…</string>
+    <string name="loading">加载中…</string>
+    <string name="error_network">网络请求失败，请重试</string>
+    <string name="new_conversation">新对话</string>
+</resources>
